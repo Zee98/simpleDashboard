@@ -1,0 +1,10 @@
+#panal{
+  margin-top: 10%;
+  margin-left: 14%;
+  padding: 5%;
+  margin-bottom: 10%;
+}
+#back{
+  background-image: url("background.jpg");
+  background-repeat: no-repeat;
+}
